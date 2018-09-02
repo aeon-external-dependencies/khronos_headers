@@ -1,0 +1,2 @@
+add_library(khronos_headers INTERFACE)
+target_include_directories(khronos_headers INTERFACE include)
